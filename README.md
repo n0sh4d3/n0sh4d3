@@ -15,7 +15,7 @@
 ⨳ **building weapons, not tools**  
 ⨳ **security is an illusion**  
 
-⨳ **this world is rotting, and I’m here to watch it burn**  
+⨳ **watching it all fall apart, one exploit at a time**  
 <br>
 <br>
 <center> 
