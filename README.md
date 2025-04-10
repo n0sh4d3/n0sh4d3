@@ -1,7 +1,6 @@
 # ✧˚ . ✰ Hewwo Evewyone! ✧˚ . ✰
 
-![](https://img.shields.io/badge/status-headpats_needed-ffb7c5) ![](https://img.shields.io/badge/mood-uwu-d6a4e3) ![](https://img.shields.io/badge/code-nyaa~-98c1d9)
-
+![](https://img.shields.io/badge/status-headpats_needed-ffb7c5)
 ## ⋆｡˚ Who Am I? ⋆｡˚
 
 Just a devewoper making the digital wowld a cuter pwace~ (≧◡≦) I wuv to pway with computers and sometimes they wet me in pwaces I'm not supposed to go! Oopsie~
