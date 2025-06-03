@@ -1,1 +1,1 @@
-i don’t pentest. i **end test**
+funny words make computer go brrrr
