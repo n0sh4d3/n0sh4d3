@@ -31,8 +31,8 @@ I code because I can — and sometimes because it breaks things in interesting w
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=n0-sh4d3&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=n0-sh4d3&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=n0sh4d3&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=n0sh4d3&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ## 📜 Philosophy
