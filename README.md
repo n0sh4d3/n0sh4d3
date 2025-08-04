@@ -8,7 +8,7 @@
 ```
 
 <picture><img align="left" src="gif.gif" width="200px"></picture>
-⨳ **c • rust • go • python**  
+⨳ **c • rust • go • python, javascript**  
 ⨳ **writing code that will outlive me**  
 ⨳ **trust is a vulnerability** 
 <br>
